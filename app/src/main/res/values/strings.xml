@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">3ed Reminder</string>
+    <string name="action_close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_reminder_title">Add a Reminder</string>
+    <string name="add_reminder_input_placeholder">Reminder</string>
+    <string name="add_important_checkbox">Important</string>
+    <string name="add_reminder_button">Add</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="successful_add_snackbar">Add Successful !</string>
+
+    <string name="edit_reminder_title">Edit Reminder</string>
+    <string name="edit_reminder_input_placeholder">Reminder</string>
+    <string name="edit_important_checkbox">Important</string>
+    <string name="edit_reminder_button">Edit</string>
+    <string name="successful_edit_snackbar">Edit Successful !</string>
+
+    <string name="successful_delete_snackbar">Delete Successful !</string>
+
+    <string name="reminder_options_title">Reminder Options</string>
+    <string-array
+        name="reminders_options_array">
+        <item
+            >Edit</item>
+        <item
+            >Delete</item>
+        <item
+            >Toggle importance</item>
+    </string-array>
+
+</resources>
